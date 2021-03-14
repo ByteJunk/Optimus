@@ -1,0 +1,4 @@
+[submodule "Optimus.LibOrquestrator"]
+	path = Optimus.LibOrquestrator
+	url = https://github.com/ByteJunk/Optimus.LibOrquestrator
+	branch = main

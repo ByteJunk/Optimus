@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Optimus", "Optimus\Optimus.csproj", "{CA6C3C20-6F77-4EAA-B747-281D15052B9C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Optimus.LibOrquestrator", "Optimus.LibOrquestrator\Optimus.LibOrquestrator.csproj", "{DA32BC0E-405E-4B0C-966B-64A7E8FC9C9A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Optimus.LibOrquestrator", "Optimus.LibOrquestrator\Optimus.LibOrquestrator.csproj", "{DA32BC0E-405E-4B0C-966B-64A7E8FC9C9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Optimus.WPF", "Optimus.WPF\Optimus.WPF.csproj", "{86749BEC-71DA-4920-8787-5562B0517EAC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{DA32BC0E-405E-4B0C-966B-64A7E8FC9C9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA32BC0E-405E-4B0C-966B-64A7E8FC9C9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA32BC0E-405E-4B0C-966B-64A7E8FC9C9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86749BEC-71DA-4920-8787-5562B0517EAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86749BEC-71DA-4920-8787-5562B0517EAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86749BEC-71DA-4920-8787-5562B0517EAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86749BEC-71DA-4920-8787-5562B0517EAC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

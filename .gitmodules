@@ -2,3 +2,6 @@
 	path = Optimus.LibOrquestrator
 	url = https://github.com/ByteJunk/Optimus.LibOrquestrator
 	branch = main
+[submodule "Optimus.WPF"]
+	path = Optimus.WPF
+	url = ./Optimus.WPF/
